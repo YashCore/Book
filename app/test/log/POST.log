@@ -1,0 +1,10 @@
+Array
+(
+    [request_form] => index
+    [title] => Ciao
+    [author] => Mondo
+    [publisher] => Someone
+    [country] => India
+    [publicationDate] => 2022-05-05
+    [genere] => horror
+)

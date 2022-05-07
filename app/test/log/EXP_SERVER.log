@@ -1,0 +1,40 @@
+Array
+(
+    [UNIQUE_ID] => YnBS1s8dlK6lchGv29HGrAAAAAg
+    [HTTP_HOST] => localhost
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en;q=0.9
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ORIGIN] => http://localhost
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_REFERER] => http://localhost/test/bookone/app/index.html
+    [CONTENT_LENGTH] => 115
+    [HTTP_COOKIE] => page=true
+    [PATH] => /sbin:/usr/sbin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin
+    [DYLD_LIBRARY_PATH] => /Applications/XAMPP/xamppfiles/lib
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.4.53 (Unix) OpenSSL/1.1.1n PHP/7.4.29 mod_perl/2.0.12 Perl/v5.34.1
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Applications/XAMPP/xamppfiles/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /Applications/XAMPP/xamppfiles/htdocs
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Applications/XAMPP/xamppfiles/htdocs/test/bookone/app/scripts/create.php
+    [REMOTE_PORT] => 54848
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /test/bookone/app/scripts/create.php
+    [SCRIPT_NAME] => /test/bookone/app/scripts/create.php
+    [PHP_SELF] => /test/bookone/app/scripts/create.php
+    [REQUEST_TIME_FLOAT] => 1651528406.673
+    [REQUEST_TIME] => 1651528406
+)
